@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Добрый день! Введите, пожалуйста, Ваше имя");
+Console.Write("Добрый день! Введите, пожалуйста, Ваше имя :");
 string Str = Console.ReadLine();
-Console.WriteLine("Приветствуем Вас,",Str,"!");
-Console.WriteLine(Str);
+Console.Write("Приветствуем Вас,");
+Console.Write(Str);
